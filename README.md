@@ -18,7 +18,7 @@
 
 - :seedling: I am trying to popularize Technical content.
 
-- :zap: In my free time, I solve problems on LeetCode and read tech articles(socially oriented answer, don't be surprised. where did you get the idea that I'll tell you what I'm doing)
+- :zap: In my free time, I solve problems on LeetCode and read tech articles (socially oriented answer, don't be surprised. where did you get the idea that I'll tell you what I'm doing)
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sikirzhytski-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/artsiom-sikirzhytski/)
 ---
